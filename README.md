@@ -30,3 +30,11 @@ listZip('animal-pics', 'animal', myList);
 ```
 
 ---
+
+### Dependencies
+
+- file-saver
+- jszip
+- jszip-utils
+
+---
