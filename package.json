@@ -1,0 +1,28 @@
+{
+  "name": "list-to-zip",
+  "version": "0.1.0",
+  "description": "Create and downloads a zip file from list of files urls.",
+  "repository": " ",
+  "author": "or-yam, <oryamn@webiya.co.il>",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zip",
+    "zip-files",
+    "list-zip",
+    "url-to-zip",
+    "download-zip",
+    "download-files",
+    "jszip",
+    "save-as",
+    "save-as-zip"
+  ],
+  "dependencies": {
+    "file-saver": "^2.0.5",
+    "jszip": "^3.6.0",
+    "jszip-utils": "^0.1.0"
+  }
+}
