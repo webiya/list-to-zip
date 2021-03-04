@@ -2,7 +2,7 @@
   "name": "list-to-zip",
   "version": "0.1.0",
   "description": "Create and downloads a zip file from list of files urls.",
-  "repository": " ",
+  "repository": "https://github.com/webiya/list-to-zip.git",
   "author": "or-yam, <oryamn@webiya.co.il>",
   "license": "MIT",
   "main": "index.js",
